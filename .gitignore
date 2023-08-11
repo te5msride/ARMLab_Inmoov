@@ -1,3 +1,6 @@
 #ignore .vscode folder
 .vscode
 ```
+#ignore venv_inmoov
+venv_inmoov
+```
