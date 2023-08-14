@@ -4,6 +4,7 @@
 
 This repository contains comprehensive documentation, schematics, and related resources for our lab's Inmoov robot. We aim to provide a clear and detailed guide to ensure smooth setup, understanding, and modification of our robot design.
 test
+
 ---
 
 ## Table of Contents
@@ -40,6 +41,8 @@ A list of tasks and recommendations to ensure the best operation and understandi
   - Necessary steps to calibrate sensors, motors, and other crucial components.
 - **Maintenance**: [Link to maintenance guide]
   - Recommendations on how to maintain the robot for prolonged and efficient use.
+
+![Todo List](attachments/todo.png)
 
 ---
 
